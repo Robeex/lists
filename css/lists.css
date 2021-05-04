@@ -12,7 +12,7 @@
 	width: 20px;
 	height: 20px;
 	position: absolute;
-	background-image: url('017-frog.png');
+	background-image: url(017-frog.png);
 	background-size: cover;
 	background-position: center;
 	left: 0;
